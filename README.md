@@ -6,4 +6,4 @@ The idea is to turn this repo into a career timeline with technical and non-tech
 
 ## ToDo List
 
-[ ] Add Company Details
+- [ ] Add Company Details
